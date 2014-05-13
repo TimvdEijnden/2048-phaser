@@ -33,7 +33,7 @@
     }
   };
 
-  window['2048'] = window['2048'] || {};
-  window['2048'].Preloader = Preloader;
+  window['_2048'] = window['_2048'] || {};
+  window['_2048'].Preloader = Preloader;
 
 }());

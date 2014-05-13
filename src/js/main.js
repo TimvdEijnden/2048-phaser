@@ -2,7 +2,7 @@ window.onload = function () {
   'use strict';
 
   var game
-    , ns = window['2048'];
+    , ns = window['_2048'];
 
   game = new Phaser.Game(640, 480, Phaser.AUTO, '2048-game');
   game.state.add('boot', ns.Boot);
