@@ -29,8 +29,8 @@
     }
   };
 
-  window['2048'] = window['2048'] || {};
-  window['2048'].Boot = Boot;
+  window['_2048'] = window['_2048'] || {};
+  window['_2048'].Boot = Boot;
 
 }());
 

@@ -41,7 +41,7 @@
 
   };
 
-  window['2048'] = window['2048'] || {};
-  window['2048'].Game = Game;
+  window['_2048'] = window['_2048'] || {};
+  window['_2048'].Game = Game;
 
 }());

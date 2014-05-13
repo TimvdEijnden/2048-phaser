@@ -34,7 +34,7 @@
     }
   };
 
-  window['2048'] = window['2048'] || {};
-  window['2048'].Menu = Menu;
+  window['_2048'] = window['_2048'] || {};
+  window['_2048'].Menu = Menu;
 
 }());
